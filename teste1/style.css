@@ -1,0 +1,25 @@
+html {
+    background-color: rgb(36, 66, 62);
+}
+
+h2 {
+    color: white;
+    background-color: rgb(36, 66, 62);
+    font-size: 40px;
+}
+
+form {
+    background-color: rgb(36, 66, 62);
+}
+
+input {
+    background-color: grey;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(41, 37, 37);
+    font-size: 15px;
+}
+
+textarea {
+    border-radius: 20px;
+}
